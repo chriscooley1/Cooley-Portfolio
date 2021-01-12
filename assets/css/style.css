@@ -39,12 +39,8 @@ p {
 }
 
 .img {
-    padding: 50px;
-    border: none;
+    width: 200px;
+    height: auto;
     float: left;
-}
-
-.img-thumbnail {
-    border: none;
-    float: left;
+    margin-right: 20px;
 }
